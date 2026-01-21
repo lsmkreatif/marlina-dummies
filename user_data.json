@@ -7,22 +7,12 @@
             "type": "penerima"
         },
         {
-            "username": "rafi@gmail.com",
-            "password": "password12345",
-            "type": "penerima"
-        },
-        {
-            "username": "lintang@gmail.com",
-            "password": "password12345",
-            "type": "penerima"
-        },
-        {
             "username": "timbeldago@gmail.com",
             "password": "password12345",
             "type": "merchant"
         },
         {
-            "username": "rmdatuak@gmail.com",
+            "username": "customercare@periplus.com",
             "password": "password12345",
             "type": "merchant"
         }
