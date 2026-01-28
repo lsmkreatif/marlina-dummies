@@ -10,11 +10,6 @@
             "username": "timbeldago@gmail.com",
             "password": "password12345",
             "type": "merchant"
-        },
-        {
-            "username": "customercare@periplus.com",
-            "password": "password12345",
-            "type": "merchant"
         }
     ]
 }
