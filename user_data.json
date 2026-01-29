@@ -2,12 +2,12 @@
     "status": 200,
     "data": [
         {
-            "username": "meda@gmail.com",
+            "username": "abdul@gmail.com",
             "password": "password12345",
             "type": "penerima"
         },
         {
-            "username": "kelontong1@gmail.com",
+            "username": "shanum@gmail.com",
             "password": "password12345",
             "type": "merchant"
         }
